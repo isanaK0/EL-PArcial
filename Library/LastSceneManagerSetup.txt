@@ -1,0 +1,10 @@
+sceneSetups:
+- path: Assets/main.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Moon.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Mars.unity
+  isLoaded: 1
+  isActive: 0
